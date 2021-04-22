@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "helpme",
+  "version": "1.0",
+
+  "description": "Personal Totara helper",
+
+  "icons": {
+    "48": "icons/helpme-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://careeracademy.online/*"],
+      "js": ["helpme.js"]
+    }
+  ]
+
+}
