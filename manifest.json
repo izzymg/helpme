@@ -1,10 +1,10 @@
 {
 
   "manifest_version": 2,
-  "name": "helpme",
+  "name": "LMS Helper",
   "version": "1.0",
 
-  "description": "Personal Totara helper",
+  "description": "Totara helper",
 
   "icons": {
     "48": "icons/helpme-48.png"
