@@ -1,4 +1,4 @@
-# helpme
+# LMS Helper
 
 My personal Firefox extension for improving Totara Learn's UI/UX as an administrator.
 

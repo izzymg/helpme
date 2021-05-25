@@ -13,7 +13,7 @@
   "content_scripts": [
     {
       "matches": ["*://careeracademy.online/*"],
-      "js": ["helpme.js"]
+      "js": ["lms_helper.js"]
     }
   ]
 
